@@ -18,6 +18,8 @@ Module is implemented in terms of gates, which is the lowest level of abstractio
 Module is implemented in terms of switches, we can represent the entire circuit as a CMOS circuit.
 
 ### In this project we are going to implement Logic gates using Data flow behavioural and Gate level Implementation.
+## Truth Table
+![image](https://github.com/tusharshenoy/RTL-Day-1-Logic-Gates/assets/107348474/5cdeaef0-5364-47cb-9305-9ef1eb928c21)
 
 ## Simulation Output
 ![image](https://github.com/tusharshenoy/RTL-Day-1-Logic-Gates/assets/107348474/b01e578f-aac3-4923-acbc-bb5dd467f508)
